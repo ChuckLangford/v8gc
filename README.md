@@ -10,7 +10,7 @@ This repo may change from time to time.
 # The How To
 
 The app is a simple http server that responds with the current memory usage. To
-run the main app,
+run the main app:
 ```
 node app.js
 ```
